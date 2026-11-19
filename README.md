@@ -18,4 +18,4 @@ Python (pandas, scikit-learn, LightGBM, XGBoost) · SQL Server · Power BI · No
 - *More coming soon: demand forecasting for supply chain*
 
 ## Find me
-[LinkedIn]((https://www.linkedin.com/in/daniel-perez-berche-4b6ab088/)) · [Kaggle](https://www.kaggle.com/danny2393)
+[LinkedIn](https://www.linkedin.com/in/daniel-perez-berche-4b6ab088/) · [Kaggle](https://www.kaggle.com/danny2393)
